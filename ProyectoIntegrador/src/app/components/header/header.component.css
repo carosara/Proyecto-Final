@@ -1,8 +1,8 @@
-div{
-    background-color:rgb(236, 242, 248);
+.row{
+    background-color:#ebd7e6;
 }
 
 app-social{
     float: right;
-    margin: 20px 20px 20px 15px;
+    margin: 20px 20px 20px 30px;
 }

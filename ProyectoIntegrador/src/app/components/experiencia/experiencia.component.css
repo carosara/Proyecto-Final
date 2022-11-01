@@ -2,9 +2,14 @@
     padding: 50px;
 }
 div{
-    background: linear-gradient( rgb(213, 235, 255), #ebd7e6);
-    
+    background-color: rgb(23, 72, 161);
 }
-h2, h4{
+
+h2, h3, h4{
     display: inline;
+    color: white;
+}
+
+p{
+    color: white;
 }

@@ -1,4 +1,9 @@
-.row{
-    background: #ebd7e6;
-    padding: 20px;
+.row {
+  background-color: #ebd7e6;
+  padding: 20px;
 }
+h2 {
+  margin: 0px 0px 8px;
+  text-align: center;
+}
+/* linear-gradient (rgb(23, 72, 161)*/
