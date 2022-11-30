@@ -3,9 +3,9 @@
 }
 
 div{
-    background-color:  rgb(23, 72, 161);
-    color: white;
-}
+    background-color: #93c0ee;
+}   /* background: linear-gradient(#FEFEFE, #888888);/*linear-gradient degrada el color pueden ponerse varios y se puede indicar al principio grados p q salga inclinado, existe tambien el radial-gradient*/
+
 
 h2, h4{
     display: inline;

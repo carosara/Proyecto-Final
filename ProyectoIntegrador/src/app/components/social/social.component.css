@@ -1,12 +1,3 @@
 img{
     width: 40px;
 }
-nav{
-    position: absolute;
-    top: 30px;
-    right:10px;
-}
-nav li{
-    display: inline;
-    margin: 0 0 0 80px
-}

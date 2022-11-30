@@ -2,14 +2,9 @@
     padding: 50px;
 }
 div{
-    background-color: rgb(23, 72, 161);
+    background-color: #93c0ee;   /*#ebd7e6-rgb(23, 72, 161);rosados*/
 }
 
 h2, h3, h4{
     display: inline;
-    color: white;
-}
-
-p{
-    color: white;
 }
